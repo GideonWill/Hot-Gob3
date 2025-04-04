@@ -31,8 +31,8 @@ A delicious food delivery mobile application built using React Native and Expo. 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/GideonWill/hot-gob3.git
-   cd hot-gob3
+   git clone https://github.com/GideonWill/Hot-Gob3.git
+   cd Hot-Gob3
    ```
 
 2. Install dependencies
